@@ -1,0 +1,16 @@
+# Ket qua build
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# File tam, editor
+*~
+*.swp
+*.log
+.vscode/
+.idea/
+.DS_Store
